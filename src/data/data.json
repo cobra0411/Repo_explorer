@@ -1,0 +1,25 @@
+{
+  "name": "Folder 1",
+  "id": "_id_1",
+  "isFolder": true,
+  "data": [
+    {
+      "name": "Folder 11",
+      "id": "_id_11",
+      "isFolder": true,
+      "data": []
+    },
+    {
+      "name": "Folder 12",
+      "id": "_id_12",
+      "isFolder": true,
+      "data": []
+    },
+    {
+      "name": "File 13",
+      "id": "_id_13",
+      "isFolder": false,
+      "data": []
+    }
+  ]
+}
